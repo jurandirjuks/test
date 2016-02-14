@@ -4,6 +4,11 @@
 	<groupId>org.fiveware</groupId>
 	<artifactId>fiveware-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<modules>
+		<module>fiveware-test-model</module>
+		<module>fiveware-test-service</module>
+		<module>fiveware-test-web</module>
+	</modules>
 	<packaging>pom</packaging>
 	<name>Test Parent</name>
 
